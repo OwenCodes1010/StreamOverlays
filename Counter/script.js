@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     let counterValue = 0;
     const minValue = 0;
-    const maxValue = 100; // Adjust this value as needed
+    const maxValue = 1000; // Adjust this value as needed
 
     document.addEventListener('keydown', function (event) {
         // Check if the key pressed is "r" for incrementing

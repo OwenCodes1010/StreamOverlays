@@ -2,7 +2,7 @@ Welcome to my StreamOverlays! Feel free to clone this repository and use it for 
 When you have it selected you can press "Interact" and use all the functions of each of the Overlays. Look below for the controls for each. And rember to click inside of the interactive box in order to be able to actually interact with everything in the overlays.
 
 
---- Counter ---
+--- Counter --- /n
 E - Go Down One
 R - Go Up One
 

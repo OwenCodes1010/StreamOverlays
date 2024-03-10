@@ -6,6 +6,8 @@ When you have it selected you can press "Interact" and use all the functions of 
 
 
 E - Go Down One
+
+
 R - Go Up One
 
 Minimun is atomaticly set as "0". Change in JS file.

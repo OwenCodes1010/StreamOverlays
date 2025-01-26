@@ -10,5 +10,5 @@ E - Go Down One
 
 R - Go Up One
 
-Minimun is atomaticly set as "0". Change in JS file.
-Maximum is atomaticly set as "1000". Change in JS file.
+Minimun is automaticly set as "0". Change in JS file.
+Maximum is automaticly set as "1000". Change in JS file.
